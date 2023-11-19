@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import science from "../../Assets/Projects/science.png"
 
 function Projects() {
   return (
@@ -35,6 +36,17 @@ function Projects() {
               title="Smart Parking"
               description="A Smart parking using ESP32-CAM and Raspberry pi for  Plate-detection with Machine learning algorithm ."
               ghLink="https://github.com/hanidol/Smart_parking"
+              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={science}
+              isBlog={false}
+              title="Profil Bio"
+              description="A application using React , Node.js a personal portfolio website serves as a powerful tool to promote myself, build our brand, and create opportunities in the digital landscape. It allows  to take control of our online presence and showcase our work in the best possible light."
+              ghLink="https://github.com/hanidol/Profil"
+              demoLink="https://profil-bio.onrender.com/"
               
             />
           </Col>
