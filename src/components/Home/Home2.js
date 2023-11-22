@@ -31,7 +31,7 @@ function Home2() {
               <br />
               My field of Interest's are Data-Science &nbsp;
               <i>
-                <b className="purple">As a dedicated and results-driven data scientist, I leverage a robust combination of statistical knowledge, programming skills, and a passion for extracting actionable insights from complex datasets. With a [number of years] years of experience in the field, I have a proven track record of successfully designing and implementing data-driven solutions that drive business impact </b> and
+                <b className="purple">As a dedicated and results-driven data scientist, I leverage a robust combination of statistical knowledge, programming skills, and a passion for extracting actionable insights from complex datasets. With a 4 years of experience in the field, I have a proven track record of successfully designing and implementing data-driven solutions that drive business impact </b> and
                 also My skills {" "}
                 <b className="purple">
                 <div className="home-about-social">
