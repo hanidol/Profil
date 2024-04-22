@@ -25,14 +25,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, R, Python, Javascript and Go. </b>
               </i>
               <br />
               <br />
               My field of Interest's are Data-Science &nbsp;
               <i>
-                <b className="purple">As a dedicated and results-driven data scientist, I leverage a robust combination of statistical knowledge, programming skills, and a passion for extracting actionable insights from complex datasets. With a 4 years of experience in the field, I have a proven track record of successfully designing and implementing data-driven solutions that drive business impact </b> and
-                also My skills {" "}
+                <b className="purple"> {} And Embedded System </b>  {" "}
                 <b className="purple">
                 <div className="home-about-social">
                   <Bio></Bio></div>
@@ -42,7 +41,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js, Data Science, Material UI, Nivo Charts, Formik, Yup, FullCalendar, Data Grid </b> and
+              with <b className="purple">Flask, Tkinter, Node.js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, Data Grid </b> and
               <i>
                 <b className="purple">
                   {" "}
