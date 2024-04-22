@@ -52,12 +52,12 @@ export default function Bio() {
           </IconButton>
         }
         title="Data Scientist"
-        subheader="About Me"
+        subheader="Me"
       />
      
       <CardContent >
         <Typography >
-          <ha>Data Scientist specialized in data mining, data visualization and development of tools based on machine learning and deep learning.</ha>
+          <ha>I have combine technical expertise with analytical skills to extract valuable insights from data. They use a variety of tools, technologies, and methodologies to collect, analyze, visualize, and interpret data.</ha>
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
@@ -75,18 +75,17 @@ export default function Bio() {
         <CardContent>
           <Typography paragraph>Method:</Typography>
           <Typography  paragraph >
-          <ha>Programming Languages: Proficient in Python, with experience in R .<br />
-          <br />Statistical Analysis: Strong foundation in statistical methods, hypothesis testing, and regression analysis.
-          <br />Machine Learning: Expertise in developing and deploying machine learning models for classification, regression, and clustering.
-          <br />Data Cleaning and Preprocessing: Skilled in handling and cleaning diverse datasets, managing missing data, and ensuring data quality.</ha>
+          <ha>Programming and Software Skills.<br />
+          <br />Data Analysis and Statistics.
+        <br/>  Machine Learning and Deep Learning. </ha>
                
           </Typography>
           <Typography paragraph>
-          <ha>Data Visualization: Proficient in creating clear and compelling visualizations using  Matplotlib, Seaborn.
-          <br />Big Data Technologies: Familiar with tools such as Apache Spark for efficient processing of large-scale datasets.
-          <br />Cloud Services: Experienced in utilizing ( AWS, Google Cloud, and Azure) for scalable and efficient data processing.
-          <br />Domain Knowledge: Embedded System, healthcare, finance, e-commerce.
-          <br />Communication: Strong communication skills, able to convey complex findings to both technical and non-technical stakeholders.</ha>
+          <ha>Data Visualization and Communication
+          <br />Big Data Technologies.
+          <br />Problem-Solving and Domain Knowledge.
+          <br/>Collaboration and Teamwork.
+          </ha>
           </Typography>
           <Typography>
             THank you For Your Attention <br />
