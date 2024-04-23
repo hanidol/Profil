@@ -15,7 +15,7 @@ function AboutCard() {
             As a dedicated and results-driven data scientist, I leverage a robust combination of statistical knowledge, programming skills, and a passion for extracting actionable insights from complex datasets. With a 3 years of experience in the field, I have a proven track record of successfully designing and implementing data-driven solutions that drive business impact.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            My skills and Methods:
           </p>
           <ul>
           <li className="about-activity">
